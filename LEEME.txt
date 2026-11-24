@@ -1,0 +1,52 @@
+24 DÍAS AMÁNDOTE — INSTALACIÓN
+
+1. Descomprimí este ZIP.
+2. Descomprimí tu ZIP original FOTOS CALENDARIO ADVIENTO.zip.
+3. Copiá las 34 fotos originales a assets/fotos y los 4 videos MOV a assets/videos. No cambiés sus nombres, mayúsculas ni extensiones. No copies la carpeta contenedora.
+4. Abrí index.html con Live Server en VS Code.
+5. Para probar las 24 sorpresas, cambiá preview: false a preview: true en config.js. Volvé a false antes de publicar.
+6. El primer regalo abre el 1 de diciembre de 2026 a las 00:00 de Costa Rica. El bloqueo es local, no protege contra inspección del código ni manipulación del reloj.
+7. Los videos se mantienen originales. Si un navegador no reproduce MOV, usá el enlace al original o prepará una copia MP4 compatible.
+8. Spotify requiere internet; la lectura guiada del día 13 es una dedicatoria original con tiempos aproximados, no traducción literal ni sincronización automática.
+9. Las fotos son privadas: evitá publicar el sitio sin control de acceso si no querés que terceros las puedan descargar.
+
+ARCHIVOS ESPERADOS:
+14 DE FEBRERO.jpeg
+20220322_020236972_iOS.jpg
+25101F73-1A46-4374-8307-1CD1ADB96A16_SnapseedCopy.jpg
+ANILLO DE PROMESA.jpg
+CONCIERTO LENNY 2.jpeg
+CONCIERTO LENNY.jpeg
+CUMPLEAÑOS MI AMOR.jpg
+DETALLES PRIMERA CITAS.jpeg
+EA964C98-FB68-4E80-B860-B43C05FAEE5E.JPG
+ESCAPADA LOS ANGELES AZULES.jpeg
+FOTITO LINDA.jpg
+FOTO DE MI NOVIO QUE ME VUELVE LOCA.jpg
+FOTO FAVORITA DE MI AMOR.jpg
+FOTO FAVORITA EN EL MIRADOR.JPG
+FOTO FAVORITA JUNTOS.jpg
+FOTO LINDA EN EL MIRADOR.jpg
+FOTO LINDA EN LA PLAYA.JPG
+juntos de paseo con pulgui.jpeg
+LA UNICA FOTO QUE TENGO DE LA PRIMERA VEZ QUE SALIMOS.JPG
+MANUEL ANTONIO JUNTOS.jpeg
+MOMENTOS MIRADOR.jpeg
+PASEO A LA PLAYA.jpeg
+PRIMERA VEZ EN EL PARQUE DE DIVERSIONES (2).jpeg
+PRIMERA VEZ EN EL PARQUE DE DIVERSIONES.jpeg
+PRIMERA VEZ EN....JPG
+PRIMERAS CITAS.JPG
+PRIMERAS FOTOS JUNTOS.JPG
+SALANDO EL CARRO.JPG
+SALIDA A COMER.JPG
+SALIDA AL CINE.jpg
+SALIDAS EN LA MOTO.PNG
+SAN CARLOS.jpeg
+SORPRESA POR MI REGRESO DEL VIAJE.jpeg
+UN BESITO PARA MI AMOR.JPG
+VIDEO DE SAN CARLOS.MOV
+VIDEO ESCAPADA A HERRADURA.MOV
+VIDEO PASEO AL POAS.MOV
+VIDEO POR EL PRIMER MES.MOV
+DISEÑO ELEGANTE: reemplaza la versión anterior. Conservá tus archivos originales en assets/fotos y assets/videos.
